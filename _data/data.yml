@@ -1,4 +1,4 @@
-name: 
+name: 代理服务器网
 support_dark_mode: true
 fork: true
 
@@ -7,13 +7,10 @@ contact:
   email: 29109595@qq.com
   github: zongnanshan
   linkedin: #
-  phone: 188888
-  gitlab: 
-  twitter: 
 
 languages:
   - idiom: English
-  - idiom: 
+  - idiom: 简体中文
 
 education:
   - degree: MSc in Informatics
@@ -91,7 +88,7 @@ projects:
       tempor incididunt ut labore et dolore magna aliqua.
 
   - title: Cool Project 
-    link: #
+    link: www.zhunbaba.cn
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
