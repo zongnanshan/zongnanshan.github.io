@@ -4,17 +4,16 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: 29109595@qq.com
+  github: zongnanshan
+  linkedin: #
+  phone: 188888
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: 
 
 education:
   - degree: MSc in Informatics
