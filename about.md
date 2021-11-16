@@ -2,4 +2,4 @@
 layout: default
 ---
 
-这是添加的新页面啊
+添加了一个about页
