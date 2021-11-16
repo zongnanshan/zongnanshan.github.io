@@ -2,4 +2,4 @@
 layout: default
 ---
 
-添加了一个about页
+添加了一个新about页
